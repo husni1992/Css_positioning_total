@@ -1,0 +1,32 @@
+body{
+    background-color: #1f1f1f;
+    color: #bfbfbf;
+    height: 2000px;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+}
+
+.blueBox{
+    background-color: #80aaf5;
+    position: relative;
+    top: 10px;
+    z-index: 0;
+}
+
+.greenBox{
+    background-color: #9dc575;  
+    position: relative;
+    top: -50px;
+    z-index: 1;
+}
+
+.redbox{
+    background-color: red;
+    position: relative;
+    top: -70px;
+    z-index: -2
+}

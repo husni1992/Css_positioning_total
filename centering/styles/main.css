@@ -1,0 +1,26 @@
+body{
+    background-color: #1f1f1f;
+    color: #bfbfbf;
+    height: 2000px;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    margin: 10px 10px 0 0;
+}
+
+.blueBox{
+    background-color: #80aaf5;
+    float: left;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+    top: 50%;
+    margin-top: -50px;
+}
+
+
+h1{
+    clear: both;
+}
